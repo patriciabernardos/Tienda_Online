@@ -1,0 +1,52 @@
+[
+    {
+      "id":1,
+      "name": "Tofu",
+      "category":"Alimentacion",
+      "price": 2.3,
+      "img": "https://media.istockphoto.com/id/1322298719/es/foto/subsititutos-de-carne-tofu-aislado-sobre-fondo-blanco.jpg?s=612x612&w=0&k=20&c=GZvHdhucXKAyUoJ1_RwhJdGLU5OgDvMsepGmSlLub-Q=",
+      "description": "¡Descubre el delicioso y versátil mundo del tofu con nuestro producto estrella! Nuestro tofu, elaborado con los mejores ingredientes y siguiendo un proceso de producción cuidadosamente controlado, ofrece una experiencia culinaria única que satisfará hasta a los paladares más exigentes.",
+      "postalCode": 39001
+    },
+    {
+      "id":2,
+      "name": "Tempeh",
+      "category":"Alimentacion",
+      "price": 4,
+      "img": "https://media.istockphoto.com/id/531570379/es/foto/reci%C3%A9n-tempeh-aislado-sobre-fondo-blanco.jpg?s=612x612&w=0&k=20&c=GHrR5pJ6TCGHlGOzzN-2Me7d4mM-0_703goQJdNOh_Y=",
+      "description": "¡Experimenta la deliciosa versatilidad y los beneficios nutricionales del tempeh con nuestro producto de alta calidad! El tempeh, originario de Indonesia, es un alimento fermentado a base de soja que ofrece una excelente fuente de proteínas vegetales, vitaminas y minerales esenciales para una dieta equilibrada.",
+      "postalCode": 39002
+    },
+    {"id":3,
+      "name": "Champu",
+      "category": "Cosmetica",
+      "price": 16,
+      "img": "https://media.istockphoto.com/id/1138138993/es/foto/botella-de-aceite-de-beb%C3%A9-o-champ%C3%BA-aislada-sobre-fondo-blanco.jpg?s=612x612&w=0&k=20&c=6S7AY_jVVE7MO0B4Og-ee4-Jx5zMTuNpzgmvCQ71Ydc=",
+      "description": "¡Dale a tu cabello el cuidado que se merece con nuestro champú revitalizante! Diseñado con una fórmula única, nuestro champú ofrece una experiencia de limpieza profunda y rejuvenecedora que deja tu cabello suave, sedoso y lleno de vida.",
+      "postalCode": 39004
+    },
+    {"id":4,
+      "name": "Suavizante",
+      "category":"Limpieza",
+      "price": 9,
+      "img": "https://media.istockphoto.com/id/1216953481/es/foto/botellas-de-pl%C3%A1stico-aisladas.jpg?s=612x612&w=0&k=20&c=y00bo201v2VSFpwsjFsNjUF_FKB87isn0YS5JR69z_c=",
+      "description": "Transforma tu experiencia de lavandería con nuestro suavizante de telas premium. Diseñado para brindar un cuidado excepcional a tus prendas favoritas, nuestro suavizante deja tu ropa suave, fresca y con un aroma irresistible.",
+      "postalCode": 39005
+    },
+    {"id":5,
+      "name": "Detergente",
+      "category":"Limpieza",
+      "price": 7.5,
+      "img": "https://media.istockphoto.com/id/172857643/es/foto/detergente-l%C3%ADquido.jpg?s=612x612&w=0&k=20&c=N3m20VaXsXVhM3RiGM1-FXO65nStyvt1NQcdzoNqqwk=",
+      "description": "Transforma tu experiencia de lavandería con nuestro suavizante de telas premium. Diseñado para brindar un cuidado excepcional a tus prendas favoritas, nuestro suavizante deja tu ropa suave, fresca y con un aroma irresistible.",
+      "postalCode": 39006
+    },
+    {"id":6,
+      "name": "Acondicionador",
+      "category":"Cosmetica",
+      "price": 10,
+      "img": "https://media.istockphoto.com/id/1875076040/es/foto/maqueta-de-botella-azul-con-etiqueta-en-blanco-para-espacio-de-copia-renderizado-3d.jpg?s=612x612&w=0&k=20&c=DRQd3hQg8jFg3HCJd97mOd1CQbAqxvzD72dL0XTVhC4=",
+      "description": "Transforma tu experiencia de lavandería con nuestro suavizante de telas premium. Diseñado para brindar un cuidado excepcional a tus prendas favoritas, nuestro suavizante deja tu ropa suave, fresca y con un aroma irresistible.",
+      "postalCode": 39007
+    }
+  ]
